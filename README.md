@@ -8,3 +8,4 @@ Los tres departamentos donde más dinero ganan los empleados son: executive offi
 
 De los empleados activos Foss Jason, Zamora Jeniffer y Dougall Eric fueron los empleados con la satisfacción mas alta y calificación de performance más alta también. Por otro lado, Erilus Angela trabajadora del departamento de productio y Dietrich Jenna del departamento de Sales tuvieron el numero en la escala de satisfacción mas bajo y la calificación en performance más baja también. 
 
+Aquí se puede observar el dashboard de [Tableau](https://public.tableau.com/app/profile/aidee.martinez/viz/RecursosHumanos_17408106040590/Dashboard1).  
